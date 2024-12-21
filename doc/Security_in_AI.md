@@ -1,5 +1,3 @@
-Here’s a polished version of your text ready for GitHub with proper markdown formatting:
-
 ```markdown
 # Why Do We Need Security in AI?
 
@@ -29,5 +27,3 @@ Understanding past incidents helps us build more secure systems. Some notable at
 
 Securing AI systems requires proactive measures, including robust design, continuous monitoring, and staying informed about evolving threats.
 ```
-
-Let me know if you'd like to add more details or customize it further!
