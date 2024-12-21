@@ -1,13 +1,8 @@
-```markdown
 # Why Do We Need Security in AI?
 
 Security is critical in every sector of the industry, and AI/ML applications are no exception. To understand the importance of security in AI, let’s explore some of the previous attacks that have targeted AI/ML systems.
 
----
-
-![AI Security](https://github.com/user-attachments/assets/87ed5568-e46b-45e1-a267-1c3a531c37b1)
-
----
+![image](https://github.com/user-attachments/assets/ffea66da-ddd0-49c1-8cba-39e1c0e61ee7)
 
 ### Why is AI Security Important?
 
@@ -26,4 +21,3 @@ Understanding past incidents helps us build more secure systems. Some notable at
 ---
 
 Securing AI systems requires proactive measures, including robust design, continuous monitoring, and staying informed about evolving threats.
-```
