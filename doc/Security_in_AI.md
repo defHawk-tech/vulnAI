@@ -106,7 +106,7 @@ The statistics is based on data gathered from various platforms like Hidden Laye
 
 ##### Hacked Applications
 
-<img width="821" alt="image" src="https://github.com/user-attachments/assets/24f2c3e4-1285-4dad-a0c5-756a7a3c0a27" />
+<img width="821" alt="image" src="https://github.com/user-attachments/assets/27474aed-6634-4e99-af69-f6956d1b3fa4" />
 
 1. **77% of AI/ML Applications Breached**  
    According to statistics, 77% of AI/ML applications globally have already been breached, and the leaders in these organizations are aware of it. While this presents an alarming situation, it also offers an opportunity for these leaders to learn from these breaches and implement improved security practices in AI/ML businesses.
