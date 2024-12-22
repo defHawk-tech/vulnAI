@@ -2,7 +2,7 @@
 
 Security is critical in every sector of the industry, and AI/ML applications are no exception. To understand the importance of security in AI, let’s explore some of the previous attacks that have targeted AI/ML systems.
 
-![image](https://github.com/user-attachments/assets/ffea66da-ddd0-49c1-8cba-39e1c0e61ee7)
+<img width="881" alt="image" src="https://github.com/user-attachments/assets/26293415-1569-4cc0-ae28-8d5898ef7057" />
 
 ### Why is AI Security Important?
 
@@ -52,7 +52,7 @@ Outcome: Within hours, Tay was overwhelmed by malicious users who fed it antisoc
 Design Flaw: The bot included a "repeat after me" functionality, which allowed users to make Tay mimic any input directly, without filtering or moderation.
 Exploitation: Malicious users exploited this feature by feeding Tay offensive, racist, and antisocial statements. Within hours, Tay began parroting these harmful ideas, amplifying the worst of online discourse.
 
-![image](https://github.com/user-attachments/assets/4f16d65c-d482-40aa-af96-e38b029f912d)
+<img width="998" alt="image" src="https://github.com/user-attachments/assets/26561102-bdf8-4db4-837d-b95f2d4c6d3f" />
 
 ##### Key Takeaways
 The Influence of Training Data: AI systems learn from the data they’re exposed to. Poor-quality or malicious data can corrupt the system.
@@ -95,4 +95,52 @@ Upon loading the compromised model, arbitrary code can be executed to reconstruc
 This case highlights the evolving threat landscape in AI/ML, emphasizing the need for vigilance and proactive security measures to safeguard against sophisticated attacks like tensor steganography.
 
 [REF](https://hiddenlayer.com/innovation-hub/weaponizing-machine-learning-models-with-ransomware/)
+
+### Statistics of AI Security
+
+#### Overview
+The statistics is based on data gathered from various platforms like Hidden Layer, ProtectAI, Hugging Face and similar patforms focusing on AI/ML security.
+
+#### Shocking Stats: Security in AI/ML Applications
+
+
+##### Hacked Applications
+
+<img width="821" alt="image" src="https://github.com/user-attachments/assets/24f2c3e4-1285-4dad-a0c5-756a7a3c0a27" />
+
+1. **77% of AI/ML Applications Breached**  
+   According to statistics, 77% of AI/ML applications globally have already been breached, and the leaders in these organizations are aware of it. While this presents an alarming situation, it also offers an opportunity for these leaders to learn from these breaches and implement improved security practices in AI/ML businesses.
+
+2. **23% of Leaders Unaware of Breaches**  
+   A staggering 23% of leaders are unaware of whether their AI/ML applications have been hacked. This lack of visibility poses significant risks, highlighting gaps in security requirements and improper controls. Without addressing these issues, the consequences could be disastrous.
+
+---
+
+##### Reported Bugs in AI/ML Applications
+
+<img width="781" alt="image" src="https://github.com/user-attachments/assets/ee7bf60a-2cc1-4a57-9323-1b9fefafba90" />
+
+Data from bug bounty platforms like [Huntr](https://huntr.com/bounties/hacktivity) and the CVE database from [NVD](https://nvd.nist.gov/) reveal critical insights:
+
+- **Focus on Interfaces**: Most of the top 10 vulnerabilities reported in AI/ML applications are related to interfaces, such as web or mobile applications. These are similar to the vulnerabilities found in conventional applications.  
+- **Lack of Core Model Research**: There is minimal contribution toward identifying and reporting vulnerabilities in the core AI/ML models themselves, reflecting a lack of qualitative and quantitative research expertise in this area.
+
+---
+
+#### Lessons Learned
+To secure the future of AI/ML applications, we need to take the following steps:
+1. **Enhance Cybersecurity Awareness**  
+   Provide training, workshops, and defined strategies to increase awareness among leaders in the AI/ML field.
+2. **Improve AI/ML Security Skillsets**  
+   Encourage and support researchers to develop expertise in AI/ML security.
+3. **Focus on Model Vulnerabilities**  
+   Promote research targeting vulnerabilities directly present in AI/ML models.
+4. **Adopt a "Model as Threat Actor" Approach**  
+   Treat models as potential threat actors to proactively identify and mitigate risks.
+
+---
+
+By addressing these challenges, we can build a more secure digital world powered by AI/ML.
+
+
 
