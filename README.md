@@ -14,3 +14,9 @@ VulnerAIble/VulnAI - Deploy a vulnerable AI application to explore and learn eff
    Pass your environment variables from the .env file into the container.
 
 5. Access the Application Once the container is up and running, you can access the vulnerable AI app by navigating to http://localhost/index.php⁠ in your web browser.
+
+# Challenges
+Deploy the VulnAI application in your environment as described in README.md. Go to DefHawk - VulnAI Lab and try out challenges in the lab. You find more details in [vulnAI/challenges](https://github.com/defHawk-tech/vulnAI/blob/main/challenges/vulnAI_challenges.md)
+
+# Contact Us
+For any questions and queries, you can send us mail to specter@defhawk.com
