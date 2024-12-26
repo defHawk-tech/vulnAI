@@ -167,6 +167,15 @@ Lack of data scrubbing methods or errors.
 
 <img width="706" alt="image" src="https://github.com/user-attachments/assets/bd9bd3f7-a1d1-4f42-b89d-a4b736aa45fe" />
 
+## REFERENCES
+TROJANPUZZLE - https://arxiv.org/pdf/2301.02344
+https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/
+https://owasp.org/www-chapter-los-angeles/assets/prez/OWASPLA_prez_2024_05.pdf 
+https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-slides-v1_0.pdf 
+https://pytorch.org/tutorials/beginner/fgsm_tutorial.html 
+https://github.com/EleutherAI/lm-evaluation-harness?ref=blog.mithrilsecurity.io 
+http://www.virtualforge.de/vmovie.php 
+https://github.com/EleutherAI/lm-evaluation-harness?ref=blog.mithrilsecurity.io 
 
 
 
