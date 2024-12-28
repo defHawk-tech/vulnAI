@@ -18,5 +18,14 @@ VulnerAIble/VulnAI - Deploy a vulnerable AI application to explore and learn eff
 # Challenges
 Deploy the VulnAI application in your environment as described in README.md. Go to DefHawk - VulnAI Lab and try out challenges in the lab. You find more details in [vulnAI/challenges](https://github.com/defHawk-tech/vulnAI/blob/main/challenges/vulnAI_challenges.md)
 
+# Table of Contents
+
+- [Security Checklist for AI/ML Applications](security_checklist.md)
+- [Secure AI/ML Implementation](doc/Secure_Implementation.md)
+- [Types of Attacks in AI/ML](doc/Types_of_attacks.md)
+- [Vulnerability Assessment and Penetration Testing (VAPT) Challenges](challenges/vulnAI_challenges.md)
+- [Attacks in Large Language Models (LLMs)](doc/Attacks_in_LLM.md)
+- [Security in AI - Case Studies](doc/Security_in_AI.md)
+
 # Contact Us
 For any questions and queries, you can send us mail to specter@defhawk.com
