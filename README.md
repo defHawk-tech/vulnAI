@@ -21,10 +21,9 @@ Deploy the VulnAI application in your environment as described in README.md. Go 
 # Table of Contents
 
 - [Security Checklist for AI/ML Applications](security_checklist.md)
-- [Secure AI/ML Implementation](doc/Secure_Implementation.md)
+- [Secure AI/ML Implementation](doc/Secure_implementation.md)
 - [Types of Attacks in AI/ML](doc/Types_of_attacks.md)
 - [Vulnerability Assessment and Penetration Testing (VAPT) Challenges](challenges/vulnAI_challenges.md)
-- [Attacks in Large Language Models (LLMs)](doc/Attacks_in_LLM.md)
 - [Security in AI - Case Studies](doc/Security_in_AI.md)
 
 # Contact Us
