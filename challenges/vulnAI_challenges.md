@@ -41,7 +41,7 @@ Think about how malicious data could subtly alter the system’s output.
 ### Flag Format:
 AI_SEC{<md5_of_poisoned_data>}
 
-## AI Sandbox Challenge: [Crack the Code](https://defhawk.com/battleground/raid/vulnerAIble/hugedata)
+## AI Sandbox Challenge: [Crack the Code](https://defhawk.com/battleground/raid/vulneraible/sandboxed)
 ### Objective:
 Access the hidden win.txt file located outside the ALLOWED READ directory and retrieve the secret flag: AI_SEC{}.
 
